@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Azure/AWP/GMP/CODING/PROGRAMMING/SOFTWARE/NETWORKING/CYBER SECURITY 
 - 💞️ I’m looking to collaborate on Azure/AWP/GMP/CODING/PROGRAMMING/SOFTWARE/NETWORKING/CYBER SECURITY
 - 📫 How to reach me Tinubufrank@outlook.com or tdosf
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: My Tech
+- ⚡ Fun fact: Link up with me for update on AI & Tech
 
 <!---
 tdosf/tdosf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
