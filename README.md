@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdosf Tinubu Damilola
 - 👀 I’m interested in Cloud Engineer (AWS/GCP/Microsoft Azure), Solution Architect, DevOps Engineer & Technical Support 
-- 🌱 I’m currently learning Cloud Engineer (AWS/GCP/Microsoft Azure), Solution Architect, DevOps Engineer & Technical Support
+- 🌱 I’m an experience Cloud Engineer (AWS/GCP/Microsoft Azure), Solution Architect, DevOps Engineer & Technical Support
 - 💞️ I’m looking to collaborate on Cloud Engineer (AWS/GCP/Microsoft Azure), Solution Architect, DevOps Engineer & Technical Support
 - 📫 How to reach me Tinubufrank@outlook.com or tdosf on GITHUB or Tinubufrank@gmail.com
 - 😄 Pronouns: My AI & Technology 
